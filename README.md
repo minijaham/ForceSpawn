@@ -1,2 +1,3 @@
 # ForceSpawn
-Forces players to teleport to the default world spawn
+Forces players to teleport to the default world spawn on join
+
