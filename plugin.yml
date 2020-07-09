@@ -1,0 +1,7 @@
+name: ForceSpawn
+author: minimuhammad
+version: 1.0.0
+api: [3.0.0]
+main: minijaham\ForceSpawn\Main
+load: STARTUP
+description: "Force players to teleport to the default spawn on login."
