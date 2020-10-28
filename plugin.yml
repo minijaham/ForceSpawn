@@ -1,6 +1,6 @@
 name: ForceSpawn
 author: minimuhammad
-version: Final
+version: 1.1
 api: [3.0.0]
 main: minijaham\ForceSpawn\Main
 load: STARTUP
